@@ -8,4 +8,31 @@ You're required to create a function that receives an array (M) and integer valu
 
 > 🚨 We're looking to someone who can imagine future problems while is coding.
 
- 
+## How to Run the Program
+
+Follow these steps to set up and execute the program:
+
+### Prerequisites
+1. **Node.js**: Install the latest version of Node.js from [Node.js official website](https://nodejs.org/).
+2. **TypeScript**: Install TypeScript globally if not already installed:
+   ```bash
+   npm install -g typescript
+### Project Setup
+
+1. **Clone the repository**:
+    ```bash
+    git clone <repository-url>
+    cd <repository-name>
+2. **Install dependencies**: Run the following command to install all required packages:
+    ```bash
+    npm install
+3. **Compile TypeScript**: Compile the TypeScript files into JavaScript:
+    ```bash
+    npm run compile
+### Running the Program
+1. **Execute the program**: Run the main script that contains the tests:
+    ```bash
+    npm test
+**Authored by**  
+scornelio  
+💻 Passionate Developer | 🚀 Problem Solver | 🛠️ Builder of Solutions

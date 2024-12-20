@@ -1,0 +1,1 @@
+export type NumberPair = [number, number];

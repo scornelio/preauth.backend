@@ -40,3 +40,35 @@ for you).
 
 Just for clarification, an item can never have its Quality increase above 50, however "Sulfuras" is a
 legendary item and as such its Quality is 80 and it never alters.
+
+## How to Run the Program
+
+Follow these steps to set up and execute the program:
+
+### Prerequisites
+1. **Node.js**: Install the latest version of Node.js from [Node.js official website](https://nodejs.org/).
+2. **TypeScript**: Install TypeScript globally if not already installed:
+   ```bash
+   npm install -g typescript
+### Project Setup
+
+1. **Clone the repository**:
+    ```bash
+    git clone <repository-url>
+    cd <repository-name>
+2. **Install dependencies**: Run the following command to install all required packages:
+    ```bash
+    npm install
+3. **Compile TypeScript**: Compile the TypeScript files into JavaScript:
+    ```bash
+    npm run compile
+### Running the Program
+1. **Execute the program**: Run the main script that contains the tests:
+    ```bash
+    npm test
+1. **Check Code Coverage**: Run the main script that contains the tests:
+    ```bash
+    npm run coverage
+**Authored by**  
+scornelio  
+💻 Passionate Developer | 🚀 Problem Solver | 🛠️ Builder of Solutions
