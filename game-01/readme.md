@@ -21,8 +21,8 @@ Follow these steps to set up and execute the program:
 
 1. **Clone the repository**:
     ```bash
-    git clone <repository-url>
-    cd <repository-name>
+    git clone https://github.com/scornelio/preauth.backend.git
+    cd preauth.backend/game-01
 2. **Install dependencies**: Run the following command to install all required packages:
     ```bash
     npm install
